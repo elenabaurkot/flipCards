@@ -1,6 +1,8 @@
 # Flipcards
 Welcome to FlipCards, a site designed to test your coding knowledge in different languages and prepare you for job interviews. Check out the different decks of flashcards to test your coding knowledge. 
 
+<img src= 'https://res.cloudinary.com/dsxuuory9/image/upload/v1589205222/portfolio/Screen_Shot_2020-05-11_at_9.53.37_AM_zp7vvv.png' />
+
 ## Table of Contents
 <ol>
     <li><a href="#motivation">Motivation</a></li>
